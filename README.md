@@ -46,8 +46,11 @@
 ![linearlayout](https://github.com/PresidentChao/EX3/blob/master/xml1.jpg)
 #### (1)字体大小
 ![linearlayout](https://github.com/PresidentChao/EX3/blob/master/size.jpg)
+##### 小
 ![linearlayout](https://github.com/PresidentChao/EX3/blob/master/small.jpg)
+##### 中
 ![linearlayout](https://github.com/PresidentChao/EX3/blob/master/middle.jpg)
+##### 大
 ![linearlayout](https://github.com/PresidentChao/EX3/blob/master/big.jpg)
 #### (2)普通菜单项
 ![linearlayout](https://github.com/PresidentChao/EX3/blob/master/toast.jpg)
@@ -57,3 +60,17 @@
 ![linearlayout](https://github.com/PresidentChao/EX3/blob/master/red.jpg)
 ##### 黑色
 ![linearlayout](https://github.com/PresidentChao/EX3/blob/master/black.jpg)
+## 四.ActionMode
+### 1.设计思路
+#### （1）先跟SimpleAdapter一样，创建出一个适配器来放列表
+#### （2）创建出上下文菜单
+#### （3）创建出在导航栏的菜单进行信息提示
+#### （4）在ActionModeAdapter中创建出ActionMode
+### 2.运行截图
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/actionmode.jpg)
+#### 长按一个列表，会跳出上下文菜单
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/select1.jpg)
+#### 选择两个
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/select2.jpg)
+#### 删除
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/delete.jpg)
