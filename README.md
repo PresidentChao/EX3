@@ -37,8 +37,23 @@
 ## 三.XML
 ### 1.设计思路
 #### （1）在Xml.xml里添加一个TextView
-
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/xml.xml.png)
 #### （2）创建一个menu，在menu里添加菜单布局
-
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/menu.xml.png)
 #### （3）在XmlActivity里创建出Xml
 ### 2.运行截图
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/xml.jpg)
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/xml1.jpg)
+#### (1)字体大小
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/size.jpg)
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/small.jpg)
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/middle.jpg)
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/big.jpg)
+#### (2)普通菜单项
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/toast.jpg)
+#### （3）字体颜色
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/color.jpg)
+##### 红色
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/red.jpg)
+##### 黑色
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/black.jpg)
