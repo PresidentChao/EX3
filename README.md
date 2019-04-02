@@ -24,16 +24,16 @@
 ### 2.运行截图
 ![linearlayout](https://github.com/PresidentChao/EX3/blob/master/simpledapter.jpg)
 #### 点击列表中的一个选项，会跳出其的toast信息
-![linearlayout](https://github.com/PresidentChao/EX3/blob/master/simpleadapter1.jpg)
-![linearlayout](https://github.com/PresidentChao/EX3/blob/master/simpleadapter2.jpg)
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/simpledapter1.jpg)
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/simpledapter2.jpg)
 ## 二.AlertDialog
 ### 1.设计思路
 #### （1）在AlertDialog_layout.xml里添加两个EditText
 ![linearlayout](https://github.com/PresidentChao/EX3/blob/master/alertdialog_layout.png)
 #### （2）在AlertDialogActivity里创建出AlertDialog
 ### 2.运行截图
-![linearlayout](https://github.com/PresidentChao/EX3/blob/master/aletdialog1.jpg)
-![linearlayout](https://github.com/PresidentChao/EX3/blob/master/aletdialog2.jpg)
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/alertdialog1.jpg)
+![linearlayout](https://github.com/PresidentChao/EX3/blob/master/alertdialog2.jpg)
 ## 三.XML
 ### 1.设计思路
 #### （1）在Xml.xml里添加一个TextView
